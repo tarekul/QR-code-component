@@ -19,6 +19,13 @@ body {
 
 .qr-code {
     margin: 32px;
+
+}
+
+.qr-code img {
+    width: 100%;
+    height: auto;
+    
 }
 
 .card-text {
